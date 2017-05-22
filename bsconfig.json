@@ -1,0 +1,7 @@
+{
+    "name": "bucklescript-jsonm",
+    "bs-dependencies": ["bucklescript-uchar", "bucklescript-uutf"],
+    "sources": [{
+        "dir": "jsonm/src",
+    }]
+}

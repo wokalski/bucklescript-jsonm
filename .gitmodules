@@ -1,0 +1,3 @@
+[submodule "jsonm"]
+	path = jsonm
+	url = https://github.com/dbuenzli/jsonm.git
